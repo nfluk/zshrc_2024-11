@@ -122,8 +122,3 @@ eval "$(starship init zsh)"
 # added by Webi for pyenv
 eval "$(pyenv init -)"
 eval "$(pyenv virtualenv-init -)"
-
-# added variables by Nick
-export NAME="Nick"
-export WARN_MESSAGE="The auditor is here"
-export WARN_FROM_NAME="Your worst nightmare"
